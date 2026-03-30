@@ -154,7 +154,7 @@ The backend handles all document processing and RAG operations:
 ---
 
 ## Project Structure
-
+```
 RAG_PROJECT/
 ├── RAG_PROJECT.py           # Main application file
 ├── rxconfig.py              # Reflex configuration
@@ -182,5 +182,6 @@ RAG_PROJECT/
 │   └── images/             # Images and icons
 │
 └── documents/               # Uploaded documents (local only)
+```
 
 The implementation of embeddings, vector search, and LLM-based response generation showcases a scalable and efficient approach to document-based question answering, bridging the gap between traditional search and intelligent AI systems.
