@@ -137,7 +137,7 @@ The backend handles all document processing and RAG operations:
 
 ---
 
-### Technology Stack
+## 🛠️ Technology Stack
 
 | Category | Technology | Purpose |
 |----------|-----------|---------|
@@ -153,7 +153,7 @@ The backend handles all document processing and RAG operations:
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 ```
 RAG_PROJECT/
 ├── RAG_PROJECT.py           # Main application file
